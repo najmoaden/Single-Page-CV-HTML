@@ -12,11 +12,11 @@
 To view this CV, open `Single-Page-CV-HTML` file in your browser.
 
 ### Submission Checklist:
-- Semantically correct HTML structure.
-- Single-page layout with sections for education, skills, and career history.
-- SEO meta tags in the head section.
-- OG tags for better social media sharing.
-- A favicon linked in the head section.
+~~ - Semantically correct HTML structure.
+~~ - Single-page layout with sections for education, skills, and career history.
+~~ - SEO meta tags in the head section.
+~~ - OG tags for better social media sharing.
+~~ - A favicon linked in the head section.
 ### Future Enhancements
 *Styling with CSS
 *Responsive Design
