@@ -17,8 +17,8 @@ To view this CV, open `Single-Page-CV-HTML` file in your browser.
 - OG tags for better social media sharing.
 - A favicon linked in the head section.
 ### Future Enhancements
-*Styling with CSS
-*Responsive Design
+* Styling with CSS
+* Responsive Design
 
 ### Author
 * Najmo Aden
